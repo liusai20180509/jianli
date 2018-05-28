@@ -1,0 +1,54 @@
+body{
+    font-family: 微软雅黑;
+}
+#d1{
+    width: 800px;
+    margin: auto;
+    border: #e6e6e6 solid 1px;
+    display: block;
+}
+/*div{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}*/
+div,table{
+    display: inline-block;
+    vertical-align: bottom;
+}
+#title{
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    background: #6f6f6f;
+    width: 750px;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 50px;
+}
+.main{
+    font-size: 20px;
+    font-weight: bold;
+    background: #CCCCCC;
+    width: 180px;
+    height: 160px;
+    line-height: 160px;
+    text-align: center;
+    border-bottom: solid 1px #e6e6e6;
+}
+table{
+    mso-cellspacing: 10px;
+    height: 160px;
+    width: 615px;
+    border-bottom: #e6e6e6 solid 1px;
+}
+td{
+    padding: 5px;
+    vertical-align: middle;
+}
+table .kong{
+    width: 15px;
+}
+table .dan{
+    font-weight: bold;
+}
