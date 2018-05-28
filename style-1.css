@@ -1,0 +1,33 @@
+body{
+    font-family: 微软雅黑;
+}
+#d1{
+    width: 800px;
+    margin: auto;
+    border: #e6e6e6 solid 1px;
+}
+div{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.main{
+    font-size: 20px;
+    font-weight: bold;
+}
+table{
+    mso-cellspacing: 10px;
+}
+td{
+    padding: 5px;
+}
+table .kong{
+    width: 15px;
+}
+table .dan{
+    font-weight: bold;
+}
