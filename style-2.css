@@ -1,0 +1,47 @@
+body{
+    font-family: 微软雅黑;
+}
+#d1{
+    width: 800px;
+    margin: auto;
+    border: #e6e6e6 solid 1px;
+}
+div{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    overflow: hidden;
+}
+#title{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background: #66CCFF;
+    width: 180px;
+    height: 100%;
+    color: white;
+    padding-top: 50px;
+    float: left;
+    padding-bottom: 2000px;
+    margin-bottom: -2000px;
+}
+#con{
+    float: right;
+    width: 600px;
+}
+.main{
+    font-size: 20px;
+    font-weight: bold;
+}
+table{
+    mso-cellspacing: 10px;
+}
+td{
+    padding: 5px;
+}
+table .kong{
+    width: 15px;
+}
+table .dan{
+    font-weight: bold;
+}
